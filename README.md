@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elbriga14
-- 👀 I’m interested in GameDev, Game Design, C++, Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in GameDev, Game Design, C++, Python, HLSL, GLSL
+- 👔 Senior Tech Artist in Gaming
 - 📫 Twitter: @Gabriel_d_L
 
 <!---
